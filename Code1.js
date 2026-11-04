@@ -3,7 +3,7 @@ class Computadora{
         componentes = this.componentes
     }
 
-    mostrarComponentes{
+    mostrarComponentes(){
     }
 }
 
