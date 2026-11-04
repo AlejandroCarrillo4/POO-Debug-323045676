@@ -5,8 +5,8 @@ class Estudiante {
     }
 
     mostrarDatos(){
-        console.log("Nombre: " + nombre)
-        console.log("Edad: " + this.edad
+        console.log("Nombre: " + this.nombre)
+        console.log("Edad: " + this.edad)
     }
 }
 
